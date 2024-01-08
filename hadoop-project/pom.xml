@@ -113,7 +113,7 @@
     <native-maven-plugin.version>1.0-alpha-8</native-maven-plugin.version>
     <surefire.fork.timeout>900</surefire.fork.timeout>
     <aws-java-sdk.version>1.10.6</aws-java-sdk.version>
-    <jetty.version>6.1.26.hwx</jetty.version>
+    <jetty.version>6.1.26</jetty.version>
     <gcs.version>1.8.1.2.6.5.0-SNAPSHOT</gcs.version>
   </properties>
 
